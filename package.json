@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "exceljs": "^4.4.0",
+    "selenium-webdriver": "^4.24.0"
+  },
+  "devDependencies": {
+    "cypress": "^13.14.0"
+  }
+}
